@@ -1,0 +1,77 @@
+<template lang="pug">
+.home
+  .content
+    p.text &emsp;&emsp;震撼 辽宁东港湿地数十万候鸟春天大迁徙震撼 辽宁东港湿地数十万候鸟春天大迁徙震撼辽宁东港湿地数十万候鸟春天大迁徙震撼 辽宁东港湿地数十万候鸟春天大迁徙
+    plug(_name="imageBar" _text="标题内容" _imgsrc="@|title.png|" _src="https://owo.ink/public/78fd6ab8c50520c13b06a98e434475b7.page")
+    .card-box.clear
+      plug(_name="card" _src="./src/module/card.owo")
+      plug(_name="card" _src="./src/module/card.owo")
+      plug(_name="card" _src="./src/module/card.owo")
+      plug(_name="card" _src="./src/module/card.owo")
+      plug(_name="card" _src="./src/module/card.owo")
+      plug(_name="card" _src="./src/module/card.owo")
+      plug(_name="card" _src="./src/module/card.owo")
+      plug(_name="card" _src="./src/module/card.owo")
+      plug(_name="card" _src="./src/module/card.owo")
+      plug(_name="card" _src="./src/module/card.owo")
+    .page-bar
+      a.active(href="#") 1
+      a(href="#") 2
+      a(href="#") 3
+      a(href="#") 4
+      a(href="#") 5
+</template>
+
+<style lang="less">
+.content {
+  width: 86%;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 80%;
+  padding: 6% 2%;
+  .text {
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+  }
+}
+.card {
+  float: left;
+}
+.image-bar {
+  margin: 15px 0;
+}
+.page-bar {
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  margin: 10px 0;
+  overflow: hidden;
+  a {
+    color: #c03120;
+    display: inline-block;
+    width: 30px;
+    border: 2px solid #c03120;
+    height: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 5px;
+  }
+  .active {
+    background-color: #c03120;
+    color: white;
+  }
+}
+.card-box {
+  padding-bottom: 40px;
+}
+.home {
+  padding-bottom: 32%;
+  background-image: url('@|bottom.png|');
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 100% auto;
+}
+</style>

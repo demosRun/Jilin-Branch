@@ -1,0 +1,17 @@
+<template>
+  <div class="image-bar" style="background-image: url('{{prop._imgsrc}}')">{{prop._text}}</div>
+</template>
+
+<style lang="less">
+.image-bar {
+  line-height: 40px;
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto 35px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  margin: 10px 0;
+}
+</style>
