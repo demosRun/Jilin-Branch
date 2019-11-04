@@ -87,6 +87,7 @@ li {
   display: block;
   background-color: #bf311b;
   border: none;
+  box-shadow: 1px 1px 4px #564b4b;
 }
 
 .card p {
@@ -147,7 +148,7 @@ li {
 
 .home {
   padding-bottom: 32%;
-  background-image: url('../resource/bottom.png');
+  background-image: url('./static/resource/bottom.png');
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: 100% auto;

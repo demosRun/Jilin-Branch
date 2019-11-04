@@ -1,94 +1,173 @@
-[2019-11-04T15:22:27.124] [INFO] default - --------------------------- 开始编译 ---------------------------
-[2019-11-04T15:22:27.127] [INFO] default - 程序运行目录: D:\work\吉林分公司投票页
-[2019-11-04T15:22:27.127] [INFO] default - 首次启动!
-[2019-11-04T15:22:27.127] [INFO] default - 生成版本号: d579gfjo58
-[2019-11-04T15:22:27.132] [INFO] default - 清理资源文件夹: D:\work\吉林分公司投票页\dist\static
-[2019-11-04T15:22:27.133] [INFO] default - 文件夹不存在: D:\work\吉林分公司投票页\dist\static
-[2019-11-04T15:22:27.133] [INFO] default - 创建文件夹: D:\work\吉林分公司投票页\dist\static
-[2019-11-04T15:22:27.133] [INFO] default - 读取模板文件: C:\Users\PG\Documents\GitHub\PG\lib\index.html
-[2019-11-04T15:22:27.133] [DEBUG] default - 读取网页标题: {TAG_14226_TAG}
-[2019-11-04T15:22:27.133] [DEBUG] default - 处理页面源信息: [{"http-equiv":"content-type","content":"text/html; charset=UTF-8"},{"name":"viewport","content":"width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"},{"name":"format-detection","content":"telephone=no, email=no"},{"name":"apple-mobile-web-app-capable","content":"yes"},{"name":"apple-mobile-web-app-status-bar-style","content":"white"},{"name":"renderer","content":"webkit"},{"http-equiv":"X-UA-Compatible","content":"IE=edge,chrome=1"},{"name":"filetype","content":"1"},{"name":"publishedtype","content":"1"},{"name":"pagetype","content":"2"},{"name":"screen-orientation","content":"landscape"},{"name":"x5-orientation","content":"landscape"},{"name":"full-screen","content":"yes"},{"name":"x5-fullscreen","content":"true"},{"name":"browsermode","content":"application"},{"name":"x5-page-mode","content":"app"}]
-[2019-11-04T15:22:27.134] [INFO] default - 开始处理模块: one
-[2019-11-04T15:22:27.503] [INFO] default - 开始处理模块: imageBar
-[2019-11-04T15:22:27.504] [DEBUG] default - 使用文件缓存:D:\work\吉林分公司投票页\owo_modules\0ce71cf9a8798b9f30bd730237127f1c.owo
-[2019-11-04T15:22:27.509] [DEBUG] default - 缓存模板: imageBarhttps://owo.ink/public/78fd6ab8c50520c13b06a98e434475b7.page
-[2019-11-04T15:22:27.549] [DEBUG] default - 模块imageBar处理用时: 46 毫秒!
-[2019-11-04T15:22:27.549] [INFO] default - 开始处理模块: card
-[2019-11-04T15:22:27.556] [DEBUG] default - 缓存模板: card./src/module/card.owo
-[2019-11-04T15:22:27.561] [DEBUG] default - 模块card处理用时: 12 毫秒!
-[2019-11-04T15:22:27.561] [DEBUG] default - 模块 card 因名称重复被重命名为 card-1
-[2019-11-04T15:22:27.561] [INFO] default - 开始处理模块: card-1
-[2019-11-04T15:22:27.561] [DEBUG] default - 使用缓存返回模板: card-1
-[2019-11-04T15:22:27.562] [DEBUG] default - 模块card处理用时: 1 毫秒!
-[2019-11-04T15:22:27.562] [DEBUG] default - 模块 card 因名称重复被重命名为 card-2
-[2019-11-04T15:22:27.562] [INFO] default - 开始处理模块: card-2
-[2019-11-04T15:22:27.562] [DEBUG] default - 使用缓存返回模板: card-2
-[2019-11-04T15:22:27.563] [DEBUG] default - 模块card处理用时: 1 毫秒!
-[2019-11-04T15:22:27.563] [DEBUG] default - 模块 card 因名称重复被重命名为 card-3
-[2019-11-04T15:22:27.563] [INFO] default - 开始处理模块: card-3
-[2019-11-04T15:22:27.563] [DEBUG] default - 使用缓存返回模板: card-3
-[2019-11-04T15:22:27.564] [DEBUG] default - 模块card处理用时: 1 毫秒!
-[2019-11-04T15:22:27.564] [DEBUG] default - 模块 card 因名称重复被重命名为 card-4
-[2019-11-04T15:22:27.564] [INFO] default - 开始处理模块: card-4
-[2019-11-04T15:22:27.564] [DEBUG] default - 使用缓存返回模板: card-4
-[2019-11-04T15:22:27.565] [DEBUG] default - 模块card处理用时: 1 毫秒!
-[2019-11-04T15:22:27.565] [DEBUG] default - 模块 card 因名称重复被重命名为 card-5
-[2019-11-04T15:22:27.565] [INFO] default - 开始处理模块: card-5
-[2019-11-04T15:22:27.565] [DEBUG] default - 使用缓存返回模板: card-5
-[2019-11-04T15:22:27.566] [DEBUG] default - 模块card处理用时: 1 毫秒!
-[2019-11-04T15:22:27.566] [DEBUG] default - 模块 card 因名称重复被重命名为 card-6
-[2019-11-04T15:22:27.566] [INFO] default - 开始处理模块: card-6
-[2019-11-04T15:22:27.566] [DEBUG] default - 使用缓存返回模板: card-6
-[2019-11-04T15:22:27.567] [DEBUG] default - 模块card处理用时: 1 毫秒!
-[2019-11-04T15:22:27.567] [DEBUG] default - 模块 card 因名称重复被重命名为 card-7
-[2019-11-04T15:22:27.567] [INFO] default - 开始处理模块: card-7
-[2019-11-04T15:22:27.567] [DEBUG] default - 使用缓存返回模板: card-7
-[2019-11-04T15:22:27.568] [DEBUG] default - 模块card处理用时: 1 毫秒!
-[2019-11-04T15:22:27.568] [DEBUG] default - 模块 card 因名称重复被重命名为 card-8
-[2019-11-04T15:22:27.568] [INFO] default - 开始处理模块: card-8
-[2019-11-04T15:22:27.568] [DEBUG] default - 使用缓存返回模板: card-8
-[2019-11-04T15:22:27.569] [DEBUG] default - 模块card处理用时: 1 毫秒!
-[2019-11-04T15:22:27.569] [DEBUG] default - 模块 card 因名称重复被重命名为 card-9
-[2019-11-04T15:22:27.569] [INFO] default - 开始处理模块: card-9
-[2019-11-04T15:22:27.569] [DEBUG] default - 使用缓存返回模板: card-9
-[2019-11-04T15:22:27.570] [DEBUG] default - 模块card处理用时: 1 毫秒!
-[2019-11-04T15:22:27.572] [DEBUG] default - 缓存模板: one./src/page/one.owo
-[2019-11-04T15:22:27.577] [DEBUG] default - 页面one处理用时: 443 毫秒!
-[2019-11-04T15:22:27.578] [INFO] default - 文件夹不存在: D:/work/吉林分公司投票页/dist/static/resource
-[2019-11-04T15:22:27.578] [INFO] default - 创建文件夹: D:/work/吉林分公司投票页/dist/static/resource
-[2019-11-04T15:22:27.579] [DEBUG] default - 处理资源:  [ 'D:/work/吉林分公司投票页/src/resource/bottom.png' ]
-[2019-11-04T15:22:27.579] [DEBUG] default - 资源目录:  D:/work/吉林分公司投票页/dist/static/resource
-[2019-11-04T15:22:27.582] [DEBUG] default - css中的资源处理完毕!
-[2019-11-04T15:22:28.019] [DEBUG] default - 使用postcss处理样式，使用了1个插件!
-[2019-11-04T15:22:28.061] [INFO] default - 文件夹不存在: D:\work\吉林分公司投票页\dist\static\css
-[2019-11-04T15:22:28.061] [INFO] default - 创建文件夹: D:\work\吉林分公司投票页\dist\static\css
-[2019-11-04T15:22:28.061] [INFO] default - 开始处理附属css中的资源
-[2019-11-04T15:22:28.062] [INFO] default - 附属css中的资源处理完毕!
-[2019-11-04T15:22:28.062] [INFO] default - 处理字体: {}
-[2019-11-04T15:22:28.067] [INFO] default - 使用postcss处理完毕! 用时: 48 毫秒
-[2019-11-04T15:22:28.068] [INFO] default - 正在处理script!
-[2019-11-04T15:22:28.574] [INFO] default - 工程中只有一个页面!
-[2019-11-04T15:22:28.575] [INFO] default - js中的资源处理完毕!
-[2019-11-04T15:22:28.575] [DEBUG] default - 处理引用脚本: [{"name":"jquery1.11.0","src":"http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js"},{"name":"main","src":"./src/main.js","resource":true}]
-[2019-11-04T15:22:28.575] [DEBUG] default - 外部脚本数量: 2
-[2019-11-04T15:22:28.575] [DEBUG] default - 处理脚本: jquery1.11.0
-[2019-11-04T15:22:28.575] [DEBUG] default - 网络脚本: jquery1.11.0
-[2019-11-04T15:22:28.575] [DEBUG] default - 处理脚本: main
-[2019-11-04T15:22:28.575] [INFO] default - 读取文件: D:\work\吉林分公司投票页\src\main.js
-[2019-11-04T15:22:28.576] [DEBUG] default - 输出scriptData
-[2019-11-04T15:22:28.576] [DEBUG] default - 准备输出html!
-[2019-11-04T15:22:28.577] [DEBUG] default - 处理资源:  [ 'D:/work/吉林分公司投票页/src/resource/title.png' ]
-[2019-11-04T15:22:28.577] [DEBUG] default - 资源目录:  D:/work/吉林分公司投票页/dist/static/resource
-[2019-11-04T15:22:28.577] [DEBUG] default - 开始美化html
-[2019-11-04T15:22:28.596] [INFO] default - 文件夹不存在: D:\work\吉林分公司投票页\dist\static\js
-[2019-11-04T15:22:28.596] [INFO] default - 创建文件夹: D:\work\吉林分公司投票页\dist\static\js
-[2019-11-04T15:22:28.597] [DEBUG] default - 页面中不包含切换动画!
-[2019-11-04T15:22:28.597] [INFO] default - 编译结束!
-[2019-11-04T15:22:28.618] [INFO] default - 写入文件: D:\work\吉林分公司投票页\dist\static\css\owo.main.d579gfjo58.css
-[2019-11-04T15:22:28.618] [INFO] default - 主要逻辑文件写出成功!
-[2019-11-04T15:22:28.618] [INFO] default - 读取成功: D:\work\吉林分公司投票页\src\main.css
-[2019-11-04T15:22:28.618] [DEBUG] default - 处理资源:  [ 'D:/work/吉林分公司投票页/src/resource/bg.jpg' ]
-[2019-11-04T15:22:28.619] [DEBUG] default - 资源目录:  D:/work/吉林分公司投票页/dist/static/resource
-[2019-11-04T15:22:28.619] [INFO] default - 读取成功: D:\work\吉林分公司投票页\src\main.js
-[2019-11-04T15:22:28.629] [INFO] default - 写入文件: D:\work\吉林分公司投票页\dist\static\css\main.css
-[2019-11-04T15:22:28.630] [INFO] default - 写入文件: D:\work\吉林分公司投票页\dist\static\js\main.js
+[2019-11-04T16:54:37.158] [INFO] default - --------------------------- 开始编译 ---------------------------
+[2019-11-04T16:54:37.161] [INFO] default - 程序运行目录: D:\work\吉林分公司投票页
+[2019-11-04T16:54:37.161] [INFO] default - 首次启动!
+[2019-11-04T16:54:37.161] [INFO] default - 生成版本号: p5qxe3qj3bp
+[2019-11-04T16:54:37.166] [INFO] default - 清理资源文件夹: D:\work\吉林分公司投票页\dist\static
+[2019-11-04T16:54:37.167] [INFO] default - 文件夹不存在: D:\work\吉林分公司投票页\dist\static
+[2019-11-04T16:54:37.167] [INFO] default - 创建文件夹: D:\work\吉林分公司投票页\dist\static
+[2019-11-04T16:54:37.167] [INFO] default - 读取模板文件: C:\Users\PG\Documents\GitHub\PG\lib\index.html
+[2019-11-04T16:54:37.167] [DEBUG] default - 读取网页标题: {TAG_14226_TAG}
+[2019-11-04T16:54:37.168] [DEBUG] default - 处理页面源信息: [{"http-equiv":"content-type","content":"text/html; charset=UTF-8"},{"name":"viewport","content":"width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"},{"name":"format-detection","content":"telephone=no, email=no"},{"name":"apple-mobile-web-app-capable","content":"yes"},{"name":"apple-mobile-web-app-status-bar-style","content":"white"},{"name":"renderer","content":"webkit"},{"http-equiv":"X-UA-Compatible","content":"IE=edge,chrome=1"},{"name":"filetype","content":"1"},{"name":"publishedtype","content":"1"},{"name":"pagetype","content":"2"},{"name":"screen-orientation","content":"landscape"},{"name":"x5-orientation","content":"landscape"},{"name":"full-screen","content":"yes"},{"name":"x5-fullscreen","content":"true"},{"name":"browsermode","content":"application"},{"name":"x5-page-mode","content":"app"}]
+[2019-11-04T16:54:37.169] [INFO] default - 开始处理模块: one
+[2019-11-04T16:54:37.539] [INFO] default - 开始处理模块: imageBar
+[2019-11-04T16:54:37.539] [DEBUG] default - 使用文件缓存:D:\work\吉林分公司投票页\owo_modules\0ce71cf9a8798b9f30bd730237127f1c.owo
+[2019-11-04T16:54:37.547] [DEBUG] default - 缓存模板: imageBarhttps://owo.ink/public/78fd6ab8c50520c13b06a98e434475b7.page
+[2019-11-04T16:54:37.586] [DEBUG] default - 模块imageBar处理用时: 48 毫秒!
+[2019-11-04T16:54:37.586] [INFO] default - 开始处理模块: card
+[2019-11-04T16:54:37.593] [DEBUG] default - 缓存模板: card./src/module/card.owo
+[2019-11-04T16:54:37.598] [DEBUG] default - 模块card处理用时: 12 毫秒!
+[2019-11-04T16:54:37.598] [DEBUG] default - 模块 card 因名称重复被重命名为 card-1
+[2019-11-04T16:54:37.598] [INFO] default - 开始处理模块: card-1
+[2019-11-04T16:54:37.598] [DEBUG] default - 使用缓存返回模板: card-1
+[2019-11-04T16:54:37.599] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:54:37.599] [DEBUG] default - 模块 card 因名称重复被重命名为 card-2
+[2019-11-04T16:54:37.599] [INFO] default - 开始处理模块: card-2
+[2019-11-04T16:54:37.599] [DEBUG] default - 使用缓存返回模板: card-2
+[2019-11-04T16:54:37.599] [DEBUG] default - 模块card处理用时: 0 毫秒!
+[2019-11-04T16:54:37.600] [DEBUG] default - 模块 card 因名称重复被重命名为 card-3
+[2019-11-04T16:54:37.600] [INFO] default - 开始处理模块: card-3
+[2019-11-04T16:54:37.600] [DEBUG] default - 使用缓存返回模板: card-3
+[2019-11-04T16:54:37.600] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:54:37.600] [DEBUG] default - 模块 card 因名称重复被重命名为 card-4
+[2019-11-04T16:54:37.600] [INFO] default - 开始处理模块: card-4
+[2019-11-04T16:54:37.600] [DEBUG] default - 使用缓存返回模板: card-4
+[2019-11-04T16:54:37.601] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:54:37.601] [DEBUG] default - 模块 card 因名称重复被重命名为 card-5
+[2019-11-04T16:54:37.601] [INFO] default - 开始处理模块: card-5
+[2019-11-04T16:54:37.601] [DEBUG] default - 使用缓存返回模板: card-5
+[2019-11-04T16:54:37.602] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:54:37.602] [DEBUG] default - 模块 card 因名称重复被重命名为 card-6
+[2019-11-04T16:54:37.602] [INFO] default - 开始处理模块: card-6
+[2019-11-04T16:54:37.602] [DEBUG] default - 使用缓存返回模板: card-6
+[2019-11-04T16:54:37.603] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:54:37.603] [DEBUG] default - 模块 card 因名称重复被重命名为 card-7
+[2019-11-04T16:54:37.603] [INFO] default - 开始处理模块: card-7
+[2019-11-04T16:54:37.603] [DEBUG] default - 使用缓存返回模板: card-7
+[2019-11-04T16:54:37.604] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:54:37.604] [DEBUG] default - 模块 card 因名称重复被重命名为 card-8
+[2019-11-04T16:54:37.604] [INFO] default - 开始处理模块: card-8
+[2019-11-04T16:54:37.604] [DEBUG] default - 使用缓存返回模板: card-8
+[2019-11-04T16:54:37.605] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:54:37.605] [DEBUG] default - 模块 card 因名称重复被重命名为 card-9
+[2019-11-04T16:54:37.605] [INFO] default - 开始处理模块: card-9
+[2019-11-04T16:54:37.605] [DEBUG] default - 使用缓存返回模板: card-9
+[2019-11-04T16:54:37.606] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:54:37.608] [DEBUG] default - 缓存模板: one./src/page/one.owo
+[2019-11-04T16:54:37.613] [DEBUG] default - 页面one处理用时: 445 毫秒!
+[2019-11-04T16:54:37.614] [INFO] default - 文件夹不存在: D:/work/吉林分公司投票页/dist/static/resource
+[2019-11-04T16:54:37.615] [INFO] default - 创建文件夹: D:/work/吉林分公司投票页/dist/static/resource
+[2019-11-04T16:54:37.615] [DEBUG] default - 处理资源:  [ 'D:/work/吉林分公司投票页/src/resource/bottom.png' ]
+[2019-11-04T16:54:37.616] [DEBUG] default - 资源目录:  D:/work/吉林分公司投票页/dist/static/resource
+[2019-11-04T16:54:37.618] [DEBUG] default - css中的资源处理完毕!
+[2019-11-04T16:54:38.045] [DEBUG] default - 使用postcss处理样式，使用了1个插件!
+[2019-11-04T16:54:38.088] [INFO] default - 文件夹不存在: D:\work\吉林分公司投票页\dist\static\css
+[2019-11-04T16:54:38.088] [INFO] default - 创建文件夹: D:\work\吉林分公司投票页\dist\static\css
+[2019-11-04T16:54:38.088] [INFO] default - 开始处理附属css中的资源
+[2019-11-04T16:54:38.088] [INFO] default - 附属css中的资源处理完毕!
+[2019-11-04T16:54:38.089] [INFO] default - 处理字体: {}
+[2019-11-04T16:54:38.214] [INFO] default - 使用postcss处理完毕! 用时: 169 毫秒
+[2019-11-04T16:54:38.215] [INFO] default - 正在处理script!
+[2019-11-04T16:54:38.217] [DEBUG] default - 选择将js合并到html中!
+[2019-11-04T16:54:38.737] [INFO] default - 工程中只有一个页面!
+[2019-11-04T16:54:38.737] [INFO] default - js中的资源处理完毕!
+[2019-11-04T16:54:38.737] [DEBUG] default - 处理引用脚本: [{"name":"jquery1.11.0","src":"http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js"},{"name":"main","src":"./src/main.js","resource":true}]
+[2019-11-04T16:54:38.737] [DEBUG] default - 外部脚本数量: 2
+[2019-11-04T16:54:38.738] [DEBUG] default - 处理脚本: jquery1.11.0
+[2019-11-04T16:54:38.738] [DEBUG] default - 网络脚本: jquery1.11.0
+[2019-11-04T16:54:38.738] [DEBUG] default - 处理脚本: main
+[2019-11-04T16:54:38.738] [INFO] default - 读取文件: D:\work\吉林分公司投票页\src\main.js
+[2019-11-04T16:54:38.738] [DEBUG] default - 输出scriptData
+[2019-11-04T16:54:38.738] [DEBUG] default - 准备输出html!
+[2019-11-04T16:54:38.738] [DEBUG] default - 处理资源:  [ 'D:/work/吉林分公司投票页/src/resource/title.png' ]
+[2019-11-04T16:54:38.739] [DEBUG] default - 资源目录:  D:/work/吉林分公司投票页/dist/static/resource
+[2019-11-04T16:54:38.740] [INFO] default - 文件夹不存在: D:\work\吉林分公司投票页\dist\static\js
+[2019-11-04T16:54:38.740] [INFO] default - 创建文件夹: D:\work\吉林分公司投票页\dist\static\js
+[2019-11-04T16:54:38.740] [DEBUG] default - 页面中不包含切换动画!
+[2019-11-04T16:54:38.741] [INFO] default - 编译结束!
+[2019-11-04T16:54:38.742] [INFO] default - 发送页面需要刷新命令!
+[2019-11-04T16:54:38.753] [INFO] default - 写入文件: D:\work\吉林分公司投票页\dist\static\css\owo.main.css
+[2019-11-04T16:54:38.754] [INFO] default - 主要逻辑文件写出成功!
+[2019-11-04T16:54:38.754] [INFO] default - 读取成功: D:\work\吉林分公司投票页\src\main.css
+[2019-11-04T16:54:38.754] [DEBUG] default - 处理资源:  [ 'D:/work/吉林分公司投票页/src/resource/bg.jpg' ]
+[2019-11-04T16:54:38.754] [DEBUG] default - 资源目录:  D:/work/吉林分公司投票页/dist/static/resource
+[2019-11-04T16:54:38.754] [INFO] default - 读取成功: D:\work\吉林分公司投票页\src\main.js
+[2019-11-04T16:54:38.765] [INFO] default - 写入文件: D:\work\吉林分公司投票页\dist\static\js\main.js
+[2019-11-04T16:54:38.768] [INFO] default - 写入文件: D:\work\吉林分公司投票页\dist\static\css\main.css
+[2019-11-04T16:59:20.174] [INFO] default - file change: D:\work\吉林分公司投票页\src\module\card.owo
+[2019-11-04T16:59:20.174] [INFO] default - --------------------------- 开始编译 ---------------------------
+[2019-11-04T16:59:20.174] [INFO] default - 程序运行目录: D:\work\吉林分公司投票页
+[2019-11-04T16:59:20.174] [INFO] default - 刷新模式,变化目录: D:\work\吉林分公司投票页\src\module\card.owo
+[2019-11-04T16:59:20.174] [INFO] default - 读取模板文件: C:\Users\PG\Documents\GitHub\PG\lib\index.html
+[2019-11-04T16:59:20.175] [DEBUG] default - 读取网页标题: {TAG_14226_TAG}
+[2019-11-04T16:59:20.175] [DEBUG] default - 处理页面源信息: [{"http-equiv":"content-type","content":"text/html; charset=UTF-8"},{"name":"viewport","content":"width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"},{"name":"format-detection","content":"telephone=no, email=no"},{"name":"apple-mobile-web-app-capable","content":"yes"},{"name":"apple-mobile-web-app-status-bar-style","content":"white"},{"name":"renderer","content":"webkit"},{"http-equiv":"X-UA-Compatible","content":"IE=edge,chrome=1"},{"name":"filetype","content":"1"},{"name":"publishedtype","content":"1"},{"name":"pagetype","content":"2"},{"name":"screen-orientation","content":"landscape"},{"name":"x5-orientation","content":"landscape"},{"name":"full-screen","content":"yes"},{"name":"x5-fullscreen","content":"true"},{"name":"browsermode","content":"application"},{"name":"x5-page-mode","content":"app"}]
+[2019-11-04T16:59:20.175] [INFO] default - 开始处理模块: one
+[2019-11-04T16:59:20.214] [INFO] default - 开始处理模块: imageBar
+[2019-11-04T16:59:20.214] [DEBUG] default - 使用文件缓存:D:\work\吉林分公司投票页\owo_modules\0ce71cf9a8798b9f30bd730237127f1c.owo
+[2019-11-04T16:59:20.217] [DEBUG] default - 缓存模板: imageBarhttps://owo.ink/public/78fd6ab8c50520c13b06a98e434475b7.page
+[2019-11-04T16:59:20.220] [DEBUG] default - 模块imageBar处理用时: 6 毫秒!
+[2019-11-04T16:59:20.220] [INFO] default - 开始处理模块: card
+[2019-11-04T16:59:20.227] [DEBUG] default - 缓存模板: card./src/module/card.owo
+[2019-11-04T16:59:20.231] [DEBUG] default - 模块card处理用时: 11 毫秒!
+[2019-11-04T16:59:20.231] [DEBUG] default - 模块 card 因名称重复被重命名为 card-1
+[2019-11-04T16:59:20.231] [INFO] default - 开始处理模块: card-1
+[2019-11-04T16:59:20.231] [DEBUG] default - 使用缓存返回模板: card-1
+[2019-11-04T16:59:20.232] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:59:20.232] [DEBUG] default - 模块 card 因名称重复被重命名为 card-2
+[2019-11-04T16:59:20.232] [INFO] default - 开始处理模块: card-2
+[2019-11-04T16:59:20.232] [DEBUG] default - 使用缓存返回模板: card-2
+[2019-11-04T16:59:20.233] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:59:20.233] [DEBUG] default - 模块 card 因名称重复被重命名为 card-3
+[2019-11-04T16:59:20.233] [INFO] default - 开始处理模块: card-3
+[2019-11-04T16:59:20.233] [DEBUG] default - 使用缓存返回模板: card-3
+[2019-11-04T16:59:20.234] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:59:20.235] [DEBUG] default - 模块 card 因名称重复被重命名为 card-4
+[2019-11-04T16:59:20.235] [INFO] default - 开始处理模块: card-4
+[2019-11-04T16:59:20.235] [DEBUG] default - 使用缓存返回模板: card-4
+[2019-11-04T16:59:20.235] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:59:20.235] [DEBUG] default - 模块 card 因名称重复被重命名为 card-5
+[2019-11-04T16:59:20.235] [INFO] default - 开始处理模块: card-5
+[2019-11-04T16:59:20.235] [DEBUG] default - 使用缓存返回模板: card-5
+[2019-11-04T16:59:20.236] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:59:20.236] [DEBUG] default - 模块 card 因名称重复被重命名为 card-6
+[2019-11-04T16:59:20.236] [INFO] default - 开始处理模块: card-6
+[2019-11-04T16:59:20.236] [DEBUG] default - 使用缓存返回模板: card-6
+[2019-11-04T16:59:20.237] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:59:20.237] [DEBUG] default - 模块 card 因名称重复被重命名为 card-7
+[2019-11-04T16:59:20.238] [INFO] default - 开始处理模块: card-7
+[2019-11-04T16:59:20.238] [DEBUG] default - 使用缓存返回模板: card-7
+[2019-11-04T16:59:20.239] [DEBUG] default - 模块card处理用时: 2 毫秒!
+[2019-11-04T16:59:20.239] [DEBUG] default - 模块 card 因名称重复被重命名为 card-8
+[2019-11-04T16:59:20.239] [INFO] default - 开始处理模块: card-8
+[2019-11-04T16:59:20.239] [DEBUG] default - 使用缓存返回模板: card-8
+[2019-11-04T16:59:20.240] [DEBUG] default - 模块card处理用时: 1 毫秒!
+[2019-11-04T16:59:20.240] [DEBUG] default - 模块 card 因名称重复被重命名为 card-9
+[2019-11-04T16:59:20.240] [INFO] default - 开始处理模块: card-9
+[2019-11-04T16:59:20.240] [DEBUG] default - 使用缓存返回模板: card-9
+[2019-11-04T16:59:20.242] [DEBUG] default - 模块card处理用时: 2 毫秒!
+[2019-11-04T16:59:20.243] [DEBUG] default - 缓存模板: one./src/page/one.owo
+[2019-11-04T16:59:20.246] [DEBUG] default - 页面one处理用时: 71 毫秒!
+[2019-11-04T16:59:20.247] [DEBUG] default - 忽略文件: D:/work/吉林分公司投票页/src/resource/bottom.png
+[2019-11-04T16:59:20.247] [DEBUG] default - css中的资源处理完毕!
+[2019-11-04T16:59:20.247] [DEBUG] default - 使用postcss处理样式，使用了1个插件!
+[2019-11-04T16:59:20.250] [INFO] default - 处理字体: {}
+[2019-11-04T16:59:20.251] [INFO] default - 使用postcss处理完毕! 用时: 4 毫秒
+[2019-11-04T16:59:20.252] [INFO] default - 正在处理script!
+[2019-11-04T16:59:20.254] [DEBUG] default - 选择将js合并到html中!
+[2019-11-04T16:59:20.266] [INFO] default - 工程中只有一个页面!
+[2019-11-04T16:59:20.266] [INFO] default - js中的资源处理完毕!
+[2019-11-04T16:59:20.266] [DEBUG] default - 处理引用脚本: [{"name":"jquery1.11.0","src":"http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js"},{"name":"main","src":"./src/main.js","resource":true}]
+[2019-11-04T16:59:20.266] [DEBUG] default - 外部脚本数量: 2
+[2019-11-04T16:59:20.266] [DEBUG] default - 处理脚本: jquery1.11.0
+[2019-11-04T16:59:20.266] [DEBUG] default - 网络脚本: jquery1.11.0
+[2019-11-04T16:59:20.266] [DEBUG] default - 处理脚本: main
+[2019-11-04T16:59:20.266] [INFO] default - 读取文件: D:\work\吉林分公司投票页\src\main.js
+[2019-11-04T16:59:20.266] [DEBUG] default - 输出scriptData
+[2019-11-04T16:59:20.266] [DEBUG] default - 准备输出html!
+[2019-11-04T16:59:20.267] [DEBUG] default - 忽略文件: D:/work/吉林分公司投票页/src/resource/title.png
+[2019-11-04T16:59:20.267] [DEBUG] default - 页面中不包含切换动画!
+[2019-11-04T16:59:20.268] [INFO] default - 编译结束!
+[2019-11-04T16:59:20.269] [INFO] default - 发送页面需要刷新命令!
+[2019-11-04T16:59:20.270] [INFO] default - 读取成功: D:\work\吉林分公司投票页\src\main.js
+[2019-11-04T16:59:20.270] [INFO] default - 写入文件: D:\work\吉林分公司投票页\dist\static\css\owo.main.css
+[2019-11-04T16:59:20.270] [INFO] default - 主要逻辑文件写出成功!
+[2019-11-04T16:59:20.271] [INFO] default - 写入文件: D:\work\吉林分公司投票页\dist\static\js\main.js
