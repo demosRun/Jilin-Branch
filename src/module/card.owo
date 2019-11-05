@@ -2,7 +2,9 @@
 .card
   img(src="http://www.people.com.cn/NMediaFile/2019/1104/MAIN201911040636002408304933525.jpg" width="380" height="230")
   p 震撼 辽宁东港湿地数十万候鸟春天大迁徙
-  input(type="button" value="投票")
+  .bottom-bar.clear
+    input.vote(type="button" value="投票" voteid="60858")
+    span#vote60858 已投 1232
 </template>
 
 
@@ -33,5 +35,16 @@ input {
 p {
   font-weight: bold;
   padding: 5px;
+}
+.bottom-bar {
+  input {
+    float: left;
+  }
+  span {
+    float: right;
+    color: #a0a0a0;
+    line-height: 30px;
+    font-weight: bold;
+  }
 }
 </style>
